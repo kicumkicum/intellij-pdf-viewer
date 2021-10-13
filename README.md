@@ -1,5 +1,6 @@
 # IntelliJ PDF Viewer
 
+
 [![JetBrains plugins](https://img.shields.io/jetbrains/plugin/v/14494-pdf-viewer)](https://plugins.jetbrains.com/plugin/14494-pdf-viewer)
 [![License](https://img.shields.io/github/license/FirstTimeInForever/intellij-pdf-viewer)](https://github.com/FirstTimeInForever/intellij-pdf-viewer/blob/master/LICENSE)
 [![Latest release](https://img.shields.io/github/v/tag/firsttimeinforever/intellij-pdf-viewer?include_prereleases)](https://github.com/FirstTimeInForever/intellij-pdf-viewer/releases)
